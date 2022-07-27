@@ -5,9 +5,14 @@ body {
     font-family: 'Noto Serif', serif;
 }
 
-.section {
-    height: 100vh;
-    background-color: aqua;
+.slider-text {
+    bottom: 200px;
+}
+
+.btn-color {
+    background-color: #289BDE;
+    color: aliceblue;
+    font-size: 20px;
 }
 
 .cover-image-bg {
