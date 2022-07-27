@@ -4,3 +4,17 @@
 body {
     font-family: 'Noto Serif', serif;
 }
+
+.section {
+    height: 100vh;
+    background-color: aqua;
+}
+
+.cover-image-bg {
+    background-color: #1D1D1D;
+}
+
+.images-cover {
+    object-fit: cover;
+    opacity: 0.5;
+}
