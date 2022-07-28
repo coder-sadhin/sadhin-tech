@@ -31,3 +31,13 @@ body {
 .wid {
     width: 400px;
 }
+
+.ster-color-feedback {
+    color: #F59E0B;
+    border: #b87604;
+}
+
+.ster-color-feedback-emty {
+    border: #b87604;
+    background: #fff;
+}
