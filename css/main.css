@@ -27,3 +27,7 @@ body {
 .margin {
     margin-top: 128px;
 }
+
+.wid {
+    width: 400px;
+}
